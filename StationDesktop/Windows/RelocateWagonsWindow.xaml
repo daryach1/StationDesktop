@@ -1,0 +1,81 @@
+﻿<Window x:Class="StationDesktop.Windows.RelocateWagonsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StationDesktop.Windows"
+        mc:Ignorable="d"
+       Title="Перенести" Height="350" Width="600"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        FontFamily="Times New Roman">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black"
+                Grid.Row="0"
+                BorderThickness="2"/>
+        <StackPanel Orientation="Vertical"
+                    Grid.Row="0"
+                    Margin="5">
+            <TextBlock Text="Парк Угольный"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="7 путь"
+                         x:Name="SevenCoalRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="5 путь"
+                         x:Name="FiveCoalRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="3 путь"
+                         x:Name="ThreeCoalRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="1 путь"
+                         x:Name="OneCoalRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="2 путь"
+                         x:Name="TwoCoalRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="4 путь"
+                         x:Name="FourCoalRailway"
+                         Margin="20,5,0,0"/>
+        </StackPanel>
+        <Border BorderBrush="Black"
+                Grid.Row="1"
+                BorderThickness="2"/>
+        <StackPanel Orientation="Vertical"
+                    Grid.Row="1"
+                    Margin="5">
+            <TextBlock Text="Станция Новая"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="1 путь"
+                         x:Name="OneNewRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="3 путь"
+                         x:Name="ThreeNewRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="5 путь"
+                         x:Name="FiveNewRailway"
+                         Margin="20,5,0,0"/>
+            <RadioButton GroupName="CoalPark"
+                         Content="7 путь"
+                         x:Name="SevenNewRailway"
+                         Margin="20,5,0,0"/>
+        </StackPanel>
+        <Button x:Name="SaveButton"
+                Content="Перенести"
+                Grid.Row="2"
+                Click="SaveButton_Click"
+                Background="White"
+                FontSize="18"/>
+    </Grid>
+</Window>
