@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\prygu\Desktop\Station-dev\StationDesktop\obj\Debug\net6.0-windows\
+C:\Users\prygu\Desktop\StationDesktop\StationDesktop\obj\Debug\net6.0-windows\
 StationDesktop
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\prygu\Desktop\Station-dev\StationDesktop\App.xaml
-15578227324
+C:\Users\prygu\Desktop\StationDesktop\StationDesktop\App.xaml
+15-2133567695
 1-1957420200
-361827607469
-212-1027891976
-Pages\FiveCoalRailwayPage.xaml;Pages\FiveNewRailwayPage.xaml;Pages\FourCoalRailwayPage.xaml;Pages\OneCoalRailwayPage.xaml;Pages\OneNewRailwayPage.xaml;Pages\SevenCoalRailwayPage.xaml;Pages\SevenNewRailwayPage.xaml;Pages\ThreeCoalRailwayPage.xaml;Pages\ThreeNewRailwayPage.xaml;Pages\TwoCoalRailwayPage.xaml;Windows\AddMarkupWindow.xaml;Windows\AddWagonWindow.xaml;Windows\AuthorizationWindow.xaml;Windows\RelocateWagonsWindow.xaml;Windows\Station.xaml;
+33-677710066
+210-1927187436
+Pages\FiveCoalRailwayPage.xaml;Pages\FiveNewRailwayPage.xaml;Pages\FourCoalRailwayPage.xaml;Pages\OneCoalRailwayPage.xaml;Pages\OneNewRailwayPage.xaml;Pages\SevenCoalRailwayPage.xaml;Pages\SevenNewRailwayPage.xaml;Pages\ThreeCoalRailwayPage.xaml;Pages\ThreeNewRailwayPage.xaml;Pages\TwoCoalRailwayPage.xaml;Windows\AddMarkupWindow.xaml;Windows\AddWagonWindow.xaml;Windows\AuthWindow.xaml;Windows\RelocateWagonsWindow.xaml;Windows\StationWindow.xaml;
 
 False
 

@@ -10,7 +10,7 @@
       Background="Transparent">
     <Grid>
         <TextBlock Text="2 путь"
-                   FontSize="20"
+                   FontSize="18"
                    VerticalAlignment="Center"
                    Margin="10"/>
         <ListBox x:Name="TwoCoalListBox"

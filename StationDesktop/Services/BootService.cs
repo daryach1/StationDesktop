@@ -3,9 +3,10 @@ using StationDesktop.Windows;
 
 namespace StationDesktop.Services
 {
-    public class BootService
+    public static class BootService
     {
-        public static Station stationWindow;
+        public static AuthWindow AuthWindow { get; set; }
+        public static StationWindow StationWindow { get; set; }
 
         #region Станция Угольная
 

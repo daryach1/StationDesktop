@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using StationDesktop.Data;
+using StationDesktop.Models;
 
 namespace StationDesktop
 {

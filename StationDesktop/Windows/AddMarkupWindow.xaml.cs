@@ -1,4 +1,4 @@
-﻿using StationDesktop.Data;
+﻿using StationDesktop.Models;
 using StationDesktop.Services;
 using System;
 using System.Linq;
@@ -6,9 +6,6 @@ using System.Windows;
 
 namespace StationDesktop.Windows
 {
-    /// <summary>
-    /// Логика взаимодействия для AddMarkupWindow.xaml
-    /// </summary>
     public partial class AddMarkupWindow : Window
     {
         StationContext _stationContext;
@@ -28,7 +25,6 @@ namespace StationDesktop.Windows
             _stationContext.SaveChanges();
             ListBoxService.UpdateListBoxes();
             this.Close();
-
         }
 
         private void AddInfo()
