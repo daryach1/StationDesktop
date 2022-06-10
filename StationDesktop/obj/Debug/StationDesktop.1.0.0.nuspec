@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StationDesktop</id>
+    <version>1.0.0</version>
+    <authors>StationDesktop</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="DocumentFormat.OpenXml" version="2.16.0" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="6.0.4" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Resources/suek.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\bin\Debug\net6.0-windows\StationDesktop.runtimeconfig.json" target="lib\net6.0-windows7.0\StationDesktop.runtimeconfig.json" />
+    <file src="C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\bin\Debug\net6.0-windows\StationDesktop.dll" target="lib\net6.0-windows7.0\StationDesktop.dll" />
+    <file src="C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\Resources\suek.ico" target="content\Resources\suek.ico" />
+    <file src="C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\Resources\suek.ico" target="contentFiles\any\net6.0-windows7.0\Resources\suek.ico" />
+  </files>
+</package>

@@ -6873,24 +6873,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\prygu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\prygu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
       "projectName": "StationDesktop.Tests",
-      "projectPath": "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
+      "projectPath": "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
       "packagesPath": "C:\\Users\\prygu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop.Tests\\obj\\",
+      "outputPath": "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\prygu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6904,8 +6899,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop\\StationDesktop.csproj": {
-              "projectPath": "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop\\StationDesktop.csproj"
+            "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop\\StationDesktop.csproj": {
+              "projectPath": "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop\\StationDesktop.csproj"
             }
           }
         }
@@ -6966,7 +6961,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

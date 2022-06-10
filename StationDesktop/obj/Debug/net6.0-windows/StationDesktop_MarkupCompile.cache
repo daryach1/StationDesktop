@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\prygu\Desktop\StationDesktop\StationDesktop\obj\Debug\net6.0-windows\
+C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\obj\Debug\net6.0-windows\
 StationDesktop
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\prygu\Desktop\StationDesktop\StationDesktop\App.xaml
+C:\Users\prygu\Source\Repos\daryach1\StationDesktop\StationDesktop\App.xaml
 15-2133567695
 1-1957420200
 31943625769
-210-1927187436
+210-1613943500
 Pages\FiveCoalRailwayPage.xaml;Pages\FiveNewRailwayPage.xaml;Pages\FourCoalRailwayPage.xaml;Pages\OneCoalRailwayPage.xaml;Pages\OneNewRailwayPage.xaml;Pages\SevenCoalRailwayPage.xaml;Pages\SevenNewRailwayPage.xaml;Pages\ThreeCoalRailwayPage.xaml;Pages\ThreeNewRailwayPage.xaml;Pages\TwoCoalRailwayPage.xaml;Windows\AddMarkupWindow.xaml;Windows\AddWagonWindow.xaml;Windows\AuthWindow.xaml;Windows\RelocateWagonsWindow.xaml;Windows\StationWindow.xaml;
 
 False

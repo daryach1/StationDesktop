@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nWe2etwFMkoLv0cYkGC5F8TQI+Nfuvq2joSRxpS5hpgYQ7KxpMTTPGPndJROjVeOHiOu8X8euirglPxM7lASg==",
+  "dgSpecHash": "ERNxSrovm3T83KzGivzlN/O8R/zKEhDUAoUIGEpgalLK+G43iS22l67+rL7ksqRkWiJNotWH7Qql6OORaAf9oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prygu\\Desktop\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
+  "projectFilePath": "C:\\Users\\prygu\\Source\\Repos\\daryach1\\StationDesktop\\StationDesktop.Tests\\StationDesktop.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prygu\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\prygu\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
